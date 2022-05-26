@@ -1,0 +1,5 @@
+- Hello there, I’m @Zyxk7ForWork
+- I’m interested in back and front end coding and also game designing.
+- I would like to deepen my knowledge in those areas as i am currently learning HTML,CSS and C#
+- I’m looking to collaborate on interniships and basic level projects
+- You can reach me at : mateusbaccwork@gmail.com
